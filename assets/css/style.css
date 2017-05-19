@@ -1,5 +1,5 @@
 body{
-    background: url(bground5.jpg);
+    background: url(../images/bground5.jpg);
     color: white;
 }
 .container{
@@ -12,6 +12,7 @@ body{
 .col-sm-4{
     background-color: #4709e5;
     float: left;
+    text-align: center;
 }
 .col-sm-6{
    
